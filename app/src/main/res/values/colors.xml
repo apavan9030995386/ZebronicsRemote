@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A0A0F</color>
+    <color name="remote_bg">#141420</color>
+    <color name="btn_bg">#1C1C2E</color>
+    <color name="accent">#00D4FF</color>
+    <color name="accent_red">#FF3A5C</color>
+    <color name="text">#E8E8FF</color>
+    <color name="muted">#6B6B9A</color>
+    <color name="netflix">#E50914</color>
+    <color name="youtube">#FF0000</color>
+    <color name="prime">#00A8E0</color>
+</resources>
